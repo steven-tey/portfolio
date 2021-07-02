@@ -12,11 +12,13 @@
     "gray-matter": "^4.0.3",
     "next": "latest",
     "path": "^0.12.7",
+    "plaiceholder": "^2.0.1",
     "prismjs": "^1.24.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "remark": "^13.0.0",
-    "remark-html": "^13.0.1"
+    "remark-html": "^13.0.1",
+    "sharp": "^0.28.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",
