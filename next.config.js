@@ -4,7 +4,7 @@ module.exports = {
         {
           source: '/',
           destination: '/blog',
-          permanent: false,
+          permanent: true,
         },
       ]
     },
