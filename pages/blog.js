@@ -43,7 +43,15 @@ export default function Blog({ allPostsData }) {
       </Layout>
     )
 }
-  
+
+const plaiceholder = async (path) => {
+  try {
+    const base64 = await getPlaiceholder(path)
+    return base64
+  } catch (err) {
+    err;
+  }
+}  
 
 export async function getStaticProps() {
     const allPostsDataRaw = getSortedPostsData()
