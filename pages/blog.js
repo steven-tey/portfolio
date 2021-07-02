@@ -3,6 +3,7 @@ import { getSortedPostsData } from '../lib/posts'
 import Link from 'next/link'
 import Date from '../components/date'
 import { getPlaiceholder } from "plaiceholder";
+import Image from 'next/image'
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
