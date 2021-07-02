@@ -55,11 +55,11 @@ It was going to be a challenge to get existing users to adapt to the new brand a
 
 Our brand got a complete makeover — from the logo and brand colors, all the way to the typeface and the general UI of the app. In fact, there were a lot of dogfooding involved, so a huge portion of the work you see here was actually done by our AI — with me being the final approver, so to speak.
 
-![Before and after comparisons of our brand](/images/blog/contrast.webp)
+![Before and after comparisons of our brand](/blog/contrast.webp)
 
 Our new logo, the Echelon, is a symbolism of a series of gradual improvements that can be made to a company’s branding in order to take it to the next level.
 
-![Our new logo: The Echelon](/images/blog/echelon.webp)
+![Our new logo: The Echelon](/blog/echelon.webp)
 
 The same way Airbnb evolved into a globally recognized, multi-billion dollar business with its rebrand, we want to help startups & businesses achieve that with the use of machine learning and algorithmic art.
 
@@ -73,13 +73,9 @@ Nonetheless, it was an incredibly rewarding journey. Also, since [NextJS](https:
 
 ### Vision
 
-I touched on this a bit earlier but our goal with Elegance is to build a data-driven approach to branding. Think Canva meets OpenAI, with some Zapier automation elements in it.
+I touched on this a bit earlier but our vision with Elegance is to build a data-driven approach to marketing. Think Canva meets OpenAI, with some Zapier automation elements in it.
 
-So far, we've collected the data for the worlds top 350K companies to help you make the right branding and marketing choices for your startup. Some of the data points that we've collected include the domain, logo, brand colors, typefaces, and even tagline and marketing copy. 
-
-Machine learning and AI programming is [more about the data and less about the actual algorithm](https://twitter.com/steventey/status/1390410999136591873?s=20), so our goal for the next few months is to build out a robust dataset that can be generalized to any startup use case out there.
-
-
+The goal is to help marketers at large enterprises and e-commerce businesses improve the cost-per-action and overall efficiency of their marketing campaigns.
 
 ### User Experience
 

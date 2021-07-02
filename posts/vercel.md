@@ -8,7 +8,7 @@ image: vercel.webp
 
 
 
-Very excited to announce that I will be joining the incredible team at ▲[Vercel](https://vercel.com/) to help build the future of web development!
+I am very excited to announce that I will be joining the incredible team at ▲[Vercel](https://vercel.com/) to help build the future of web development!
 
 I've been an avid user of [NextJS](https://nextjs.org/) for a while now and the opportunity to help other developers build cool things with this framework is like a dream come true!
 
@@ -18,7 +18,7 @@ I've been an avid user of [NextJS](https://nextjs.org/) for a while now and the 
 
 For me, accepting this offer was a no-brainer decision, but the path that led me to it was actually quite serendipitous.
 
-Back in May, while working on [Elegance](/blog/elegance), I accepted [Guillermo Rauch](https://twitter.com/rauchg)'s (CEO of Vercel) invitation to work on a really exciting freelance project with Vercel – the details of which are to be announced very soon.
+Back in May, while working on [Elegance](https://elegance.ai), I accepted [Guillermo Rauch](https://twitter.com/rauchg)'s (CEO of Vercel) invitation to work on a really exciting freelance project with Vercel – the details of which are to be announced very soon.
 
 Three weeks into the project, I received a term sheet for Elegance's pre-seed round.
 
