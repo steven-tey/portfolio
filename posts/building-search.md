@@ -1,7 +1,7 @@
 ---
 title: Building a Search Algorithm for 500K One-Word Domains
-date: '2020-12-28'
 description: How we built and deployed a search algorithm for One Word Domains by using NLTK and spaCy's NLP libraries, AWS Lambda, and PostgreSQL.
+date: '2020-12-28'
 image: building-search.webp
 ---
 

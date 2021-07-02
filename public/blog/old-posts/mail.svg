@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="232px" height="232px" viewBox="0 0 232 232" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Artboard Copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard-Copy-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mail" transform="translate(0.000000, 36.000000)" fill="#000000" fill-rule="nonzero">
+            <polygon id="Path" points="153.787 80.939 232 130.384 232 29.406"></polygon>
+            <polygon id="Path" points="0 29.406 0 130.384 78.213 80.939"></polygon>
+            <path d="M217.5,0 L14.5,0 C7.2645,0 1.5225,5.394 0.435,12.3395 L116,88.479 L231.565,12.3395 C230.4775,5.394 224.7355,0 217.5,0 Z" id="Path"></path>
+            <path d="M140.505,89.697 L119.9875,103.211 C118.7695,104.0085 117.392,104.4 116,104.4 C114.608,104.4 113.2305,104.0085 112.0125,103.211 L91.495,89.6825 L0.464,147.262 C1.5805,154.1495 7.2935,159.5 14.5,159.5 L217.5,159.5 C224.7065,159.5 230.4195,154.1495 231.536,147.262 L140.505,89.697 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

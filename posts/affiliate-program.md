@@ -1,6 +1,6 @@
 ---
 title: Introducting The One Word Domains Affiliate Program
-subtitle: We're excited to announce the launch of One Word Domains' official affiliate program, powered by Recurrence.
+description: We're excited to announce the launch of One Word Domains' official affiliate program, powered by Recurrence.
 date: '2020-11-12'
 image: affiliate-program.webp
 ---

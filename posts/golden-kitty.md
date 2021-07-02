@@ -27,11 +27,11 @@ After a moderately-successful [soft launch on Indiehackers](https://www.indiehac
 
 My Product Hunt launch was a (relatively) huge success. One Word Domains ended up getting to [#2 Product of The Day](https://www.producthunt.com/time-travel/2020/5/16), with over 700 upvotes, 90 comments, and 23 positive reviews. I was aiming for a top 5 finish, so this was way beyond my expectations.
 
-[![Product Hunt #2 Product of the Day](https://steventey.com/static/assets/ph2.png)](https://www.producthunt.com/posts/one-word-domains)
+[![Product Hunt #2 Product of the Day](/blog/old-posts/ph2.png)](https://www.producthunt.com/posts/one-word-domains)
 
 A week later, a Hacker News user that went by the username "[madhukarah](https://news.ycombinator.com/user?id=madhukarah)" [posted](https://news.ycombinator.com/item?id=23291337) about One Word Domains, and for some reason, it made its way to the front page, bringing in over 8,000 users in a single day:
 
-![https://steventey.com/static/assets/8k.png](https://steventey.com/static/assets/8k.png)
+![/blog/old-posts/8k.png](/blog/old-posts/8k.png)
 
 The month following One Word Domains' launch was a whirlwind. The site received a ton of [press](https://www.oneword.domains/press) from various news sites, and I had the opportunity to go on a couple of [podcasts](https://domainnamewire.com/2020/05/26/one-word-domains-dnw-podcast-287/) to talk about my journey – which in turn brought in more visitors. I even received partnership and acquisition offers from some of the top registrars in the world. 
 

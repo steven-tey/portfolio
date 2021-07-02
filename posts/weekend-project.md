@@ -90,7 +90,7 @@ Now comes the fun part. I've had a bit of prior experience with HTML/CSS when I 
 
 In terms of UX/UI design, I decided to keep everything simple and intuitive, with an elegant visual appeal to it. I started out by using Bootstrap to create a list of the different word categories and used the `onclick()` event to trigger a JavaScript function that would show/hide the domain lists.
 
-![https://steventey.com/static/assets/owd-categories.png](https://steventey.com/static/assets/owd-categories.png)
+![/blog/old-posts/owd-categories.png](/blog/old-posts/owd-categories.png)
 
 Then, instead of duplicating the HTML file 4 times for the 4 TLDs, I used Flask's `@app.route` method as well as Python's `**locals()` method to create 4 identical pages but with different values for each of those local namespaces.
 
@@ -98,11 +98,11 @@ I also realized I needed a landing page for the site since I didn't want to use 
 
 I tried building the carousel from scratch but eventually caved and used this amazing carousel plugin called [Slick](http://kenwheeler.github.io/slick/). Here's what I came up with:
 
-![https://steventey.com/static/assets/carousel.gif](https://steventey.com/static/assets/carousel.gif)
+![/blog/old-posts/carousel.gif](/blog/old-posts/carousel.gif)
 
 Note: This is not the original MVP but the current version of the site - the original MVP didn't have the "Premium" stickers and the "More Like This". For reference, here's a screenshot of the homepage of One Word Domains in the early beginnings:
 
-![https://steventey.com/static/assets/beta.png](https://steventey.com/static/assets/beta.png)
+![/blog/old-posts/beta.png](/blog/old-posts/beta.png)
 
 Now this is probably a gross oversimplification of my build process, but it covers the gist of it - the remaining was just lots and lots of debugging and unit testing. When I was done with the MVP, I deployed it on [Heroku](https://owd.herokuapp.com/).
 
@@ -110,7 +110,7 @@ Now this is probably a gross oversimplification of my build process, but it cove
 
 *Pretty meta, I know, naming a project that helps people name their own projects.*
 
-![https://steventey.com/static/assets/mindblown.gif](https://steventey.com/static/assets/mindblown.gif)
+![/blog/old-posts/mindblown.gif](/blog/old-posts/mindblown.gif)
 
 I started out with the name "Free Domains For Me" - as in *freedomainsfor.me*, since Namecheap has a [deal](https://nc.me/) for university students to get a .me domain name for free. However, after putting some further thought into it, I decided against it because **a)** the domains on the site are not technically "free" but just "free to register" and **b)** I needed something that's more fitting for the niche I'm targeting - which is one-word domain names.
 
@@ -126,71 +126,71 @@ A few days before the launch, I did a "soft launch" on [IndieHackers](https://ww
 
 On Launch Day, instead of launching at 00:01 SF time (which is when a launch cycle starts on Product Hunt), I decided to wait until 8 AM, which was when most of my audience was online. There was already a bunch of products on the leaderboard - some of which had over 60 upvotes - so naturally, I was a little intimidated, but I went ahead and designed a thumbnail GIF, wrote up a short brief about the project, and launched.
 
-![https://steventey.com/static/assets/ph_launch_message.png](https://steventey.com/static/assets/ph_launch_message.png)
+![/blog/old-posts/ph_launch_message.png](/blog/old-posts/ph_launch_message.png)
 
 The next couple of hours were grueling. I started out by posting it on the various Slack groups that I was in, reaching out to people from my school, and sending out newsletters to the 5 subscribers that I had at the time.
 
 This is when the comments started rolling in.
 
-![https://steventey.com/static/assets/dave.png](https://steventey.com/static/assets/dave.png)
+![/blog/old-posts/dave.png](/blog/old-posts/dave.png)
 
-![https://steventey.com/static/assets/max.png](https://steventey.com/static/assets/max.png)
+![/blog/old-posts/max.png](/blog/old-posts/max.png)
 
-![https://steventey.com/static/assets/nathan.png](https://steventey.com/static/assets/nathan.png)
+![/blog/old-posts/nathan.png](/blog/old-posts/nathan.png)
 
 My initial target was to get to the top 5 products of the day on Product Hunt to be featured in their daily newsletter, but One Word Domains blew up and got to [#2 Product of The Day](https://www.producthunt.com/time-travel/2020/5/16), with over 700 upvotes, 90 comments, and 23 positive reviews.
 
-![https://steventey.com/static/assets/ph2.png](https://steventey.com/static/assets/ph2.png)
+![/blog/old-posts/ph2.png](/blog/old-posts/ph2.png)
 
 This also drove quite a bit of traffic to the site as well, with over 6,000 users visiting the site on Launch Day itself and 3,000 more in the next couple of days after.
 
-![https://steventey.com/static/assets/4k.png](https://steventey.com/static/assets/4k.png)
+![/blog/old-posts/4k.png](/blog/old-posts/4k.png)
 
 > A successful Product Hunt launch can really boost your site's SEO.
 
 In just two days, [One Word Domains](https://www.oneword.domains/) went from not ranking on any search results to ranking in the top 5 search results on Google. Oh also remember the 5 newsletter subscribers I had earlier? That number stands at 457 now.
 
-![https://steventey.com/static/assets/457subs.png](https://steventey.com/static/assets/457subs.png)
+![/blog/old-posts/457subs.png](/blog/old-posts/457subs.png)
 
 ## Hacker News Feature
 
 In the week following my Product Hunt launch, I started incorporating some feedback that I received on Launch Day. One of the biggest updates was the "synonym feature", which would allow you to find similar words of a given search term that also have available domain names.
 
-![https://steventey.com/static/assets/raza.png](https://steventey.com/static/assets/raza.png)
+![/blog/old-posts/raza.png](/blog/old-posts/raza.png)
 
 It took me a while to figure this one out, as I had to add child pages for each domain on One Word Domains. Thus, I was planning to postpone my Hacker News launch for another week...and that's when this happened:
 
-![https://steventey.com/static/assets/122-ppl-wtf.png](https://steventey.com/static/assets/122-ppl-wtf.png)
+![/blog/old-posts/122-ppl-wtf.png](/blog/old-posts/122-ppl-wtf.png)
 
 *"Whoa."* I thought to myself. *"What just happened?"*
 
 Turns out, someone went ahead and posted about One Word Domains on [Hacker News](https://news.ycombinator.com/item?id=23291337), and it was trending on the top 10 posts. Flustered and kinda caught off-guard, I quickly wrote up a brief introduction about myself and why I built One Word Domains.
 
-![https://steventey.com/static/assets/hn-intro.png](https://steventey.com/static/assets/hn-intro.png)
+![/blog/old-posts/hn-intro.png](/blog/old-posts/hn-intro.png)
 
 Now the crowd on Hacker News is quite different from the one on Product Hunt - though they both mainly consist of entrepreneurs, hackers, and startup enthusiasts, the comments you get on Hacker News are no doubt more constructive and less forgiving compared to Product Hunt. So I braced myself for the worst (but was also looking forward to getting some constructive criticism).
 
 Surprisingly, the comments were mainly positive as well, and a few of them really helped me understand which features I should be building next. For instance, I received a lot of comments asking if there was a feature for them to list their domains on the site:
 
-![https://steventey.com/static/assets/hn1.png](https://steventey.com/static/assets/hn1.png)
+![/blog/old-posts/hn1.png](/blog/old-posts/hn1.png)
 
-![https://steventey.com/static/assets/hn2.png](https://steventey.com/static/assets/hn2.png)
+![/blog/old-posts/hn2.png](/blog/old-posts/hn2.png)
 
-![https://steventey.com/static/assets/hn3.png](https://steventey.com/static/assets/hn3.png)
+![/blog/old-posts/hn3.png](/blog/old-posts/hn3.png)
 
 Taking these comments into account, I eventually built out a feature for people to [list their domains](/advertise) on One Word Domains for a nominal fee and added a "Featured Listings" section at the top of the home page. 
 
-![https://steventey.com/static/assets/featured-listings.png](https://steventey.com/static/assets/featured-listings.png)
+![/blog/old-posts/featured-listings.png](/blog/old-posts/featured-listings.png)
 
 > Note: The "Advertise" feature has been deprecated in v3 of One Word Domains
 
 The Hacker News feature drove a ton of traffic to One Word Domains. For the 5 hours that it was on the front page (check out the stats [here](http://hnrankings.info/23291337/)), there were constantly 100+ people on the site, and by the end of the day, I had over 8,000 new users on One Word Domains.
 
-![https://steventey.com/static/assets/8k.png](https://steventey.com/static/assets/8k.png)
+![/blog/old-posts/8k.png](/blog/old-posts/8k.png)
 
 Here's a screenshot of One Word Domains when it was the #10 post on Hacker News:
 
-![https://steventey.com/static/assets/hn10.png](https://steventey.com/static/assets/hn10.png)
+![/blog/old-posts/hn10.png](/blog/old-posts/hn10.png)
 
 ## Takeaways
 
