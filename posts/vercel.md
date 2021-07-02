@@ -47,7 +47,7 @@ The amount of growth potential is immense, not to mention it’ll be much easier
 
 Essentially, he made me an offer I couldn't refuse.
 
-Two days later, I signed the offer and it became official – I'm now part of the Vercel family 😃
+Two days later, I signed the offer and it became official – I'm now part of the Vercel family!
 
 ___
 
@@ -57,4 +57,4 @@ Special shoutout to [Kevin](https://twitter.com/kevinvangundy) for being super a
 
 Last but not least, to those of you who are building with #NextJS, or if you're looking to learn how to build cool stuff with #NextJS – my [Twitter DMs](https://twitter.com/steventey) are always open! 
 
-Whether it's a question about SWR, or a feature request for the Vercel team, I'd love to hear from you! ☺️
+Whether it's a question about SWR, or a feature request for the Vercel team, I'd love to hear from you!
